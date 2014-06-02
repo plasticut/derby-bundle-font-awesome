@@ -1,0 +1,18 @@
+{
+  "name": "derby-bundle-bootstrap",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "plasticut",
+    "email": "plasticut@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plasticut/derby-bundle-bootstrap.git"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}
